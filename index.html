@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link id="themeCSS" rel="stylesheet" href="light.css">
+    <link rel="stylesheet" href="stylep.css">
+    <link rel="icon" href="./images/favicon.ico">
+    <meta name="keywords" content="umar shaikh, acm thapar...">
+    <meta name="description" content="Explore Umar Shaikh's portfolio...">
+    <meta name="author" content="Umar Shaikh">
+    <title>Umar Shaikh</title>
+</head>
+<body>
+    <!-- Theme Selector -->
+    <template id="theme-template">
+        <div id="themeElement"  class="theme">
+            <div class="theme-title">Switch Theme</div>
+            <div class="theme-btn">
+                <img id="darkModeBtn" src="./images/Cute Avatar.svg" alt="">
+                <img id="lightModeBtn" src="./images/Cute Avatar2.svg" alt="">
+                <img id="colorModeBtn" src="./images/Cute Avatar3.svg" alt="">
+            </div>
+        </div>
+    </template>
+
+    <!-- Navbar Template -->
+    <template id="navbar-template">
+        <div class="navbar">
+            <div class="myimage">
+                <img src="" alt="">
+                <div>
+                    <span class="white"></span><br>
+                    <span class="designation"></span>
+                </div>
+            </div>
+            <div class="button">
+                Contact
+                <img id="arrows" src="/images/arrow.svg" alt="arrow">
+            </div>
+        </div>
+    </template>
+
+    <!-- Experience Template -->
+    <template id="experience-template">
+        <div class="block">
+            <span class="title"></span><br>
+            <span class="content">
+                <div class="achievements"></div>
+                <br>
+                <span class="white company"></span><br>
+                <span class="duration"></span>
+            </span>
+        </div>
+    </template>
+
+    <!-- About Me Template -->
+    <template id="aboutme-template">
+        <div class="aboutme_content"></div>
+    </template>
+
+    <!-- What I Do Template -->
+    <template id="whatido-template">
+        <div class="particle"></div>
+    </template>
+
+    <!-- Projects Template -->
+    <template id="project-template">
+        <div class="project_card">
+            <img src="" alt="">
+            <div class="project-detail">
+                <span class="title"></span><br>
+                <span class="grey description"></span>
+            </div>
+            <div class="arrow"><img src="./images/arrow.svg" alt=""></div>
+        </div>
+    </template>
+
+    <!-- Skills Template -->
+    <template id="skill-template">
+        <div class="skillcard"></div>
+    </template>
+
+    <!-- Education Template -->
+    <template id="education-template">
+        <div class="education_card">
+            <span class="title"></span><br>
+            <span class="content">
+                <span class="grey institution"></span><br>
+                <span class="duration"></span>
+            </span>
+        </div>
+    </template>
+
+    <!-- CTA Template -->
+    <template id="cta-template">
+        <div class="button">
+            <span></span>
+            <img src="/images/arrow.svg" alt="arrow">
+        </div>
+    </template>
+
+    <div id="themeElement"></div>
+    <div id="navbarContainer"></div>
+
+    <div class="container">
+        <div id="experience">
+            <div class="heading">experience</div>
+            <div class="content_overflow">
+                <div class="experience_content"></div>
+            </div>
+        </div>
+
+        <div id="words">
+            <div class="heading">about me</div>
+            <div class="content_overflow"></div>
+        </div>
+
+        <div id="ido">
+            <div class="heading">What i do</div>
+            <div class="x">
+                <div id="particle-container"></div>
+            </div>
+        </div>
+
+        <div id="clock">
+            <div class="clock-title">
+                <div class="heading">clock</div>
+            </div>
+            <div class="content_overflow">
+                <div id="clocka"></div>
+                <div class="location">Delhi, India</div>
+            </div>
+        </div>
+
+        <div id="cta">
+            <div class="heading">Get in Touch</div>
+            <div class="content_overflow"></div>
+        </div>
+
+        <div id="projects">
+            <div class="heading">projects</div>
+            <div class="content_overflow">
+                <div class="project_content"></div>
+            </div>
+        </div>
+
+        <div id="skills">
+            <div class="heading">skills</div>
+            <div class="content_overflow">
+                <div class="skillcontainer"></div>
+            </div>
+        </div>
+
+        <div id="education">
+            <div class="heading">education & certificates</div>
+            <div class="content_overflow">
+                <div class="education_content"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer grey">
+        <div>&copy; <span id="currentYear"></span></div>
+        <div>
+            <span>Design & Developed by</span> <span class="white">Umar Shaikh</span>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="render_content.js"></script>
+</body>
+</html>
