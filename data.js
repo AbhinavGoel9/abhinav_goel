@@ -1,9 +1,9 @@
 const portfolioData = {
     navbar: {
         image: "/images/Cute Avatar.svg",
-        name: "Umar Shaikh",
-        designation: "Designer. Mentor. Coder",
-        email: "smuf7080@gmail.com"
+        name: "Abhinav Goel",
+        designation: "Analyst. Recruiter. Coder",
+        email: "abhinavgoyal925938@gmail.com"
     },
     experience: [
         {
@@ -61,9 +61,9 @@ const portfolioData = {
   'MongoDB', 'MySQL', 'Analytics','JIRA','Metabase'],
     education: [
         {
-            title: "B.Tech in Electrical and Computer Science",
-            institution: "Thapar Institute of Engineering and Technology",
-            duration: "Sept 2021 - June 2025"
+            title: "B.Tech in Computer Science and Engineering",
+            institution: "Meerut Institute of Engineering and Technology",
+            duration: "June 2019 - June 2023"
         },
         {
             title: "Introduction to UX Design",
@@ -79,11 +79,11 @@ const portfolioData = {
     cta: [
         {
             text: "Contact Me",
-            link: "mailto:smuf7080@gmail.com"
+            link: "mailto:abhinavgoyal925938@gmail.com"
         },
         {
             text: "Connect",
-            link: "https://www.linkedin.com/in/umar-shaikh-96b7b31a5/"
+            link: "https://www.linkedin.com/in/en-abhinav-goel/"
         },
         {
             text: "Download CV",
