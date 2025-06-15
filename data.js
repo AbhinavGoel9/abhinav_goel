@@ -85,13 +85,13 @@ const portfolioData = {
         {
             title: "MBA in Business Analytics",
             institution: "Amity University",
-            duration: "2023 – Present"
+            duration: "2024 – Present"
         },
-        {
-            title: "Introduction to Data Analytics",
-            institution: "IBM - Coursera",
-            duration: "Nov 2023"
-        },
+        // {
+        //     title: "Introduction to Data Analytics",
+        //     institution: "IBM - Coursera",
+        //     duration: "Nov 2023"
+        // },
         {
             title: "B.Tech in Computer Science and Engineering",
             institution: "Meerut Institute of Engineering and Technology",
