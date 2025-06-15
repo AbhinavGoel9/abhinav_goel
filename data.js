@@ -5,28 +5,48 @@ const portfolioData = {
         designation: "Aspiring Business Analyst | Data-driven Decision Maker",
         email: "abhinavgoyal925938@gmail.com"
     },
-    experience: [
-        {
-            title: "Business Analyst Intern",
-            achievements: [
-                "Analyzed business requirements and translated them into data models and actionable insights for ongoing projects.",
-                "Utilized Excel, SQL, and Power BI to create dashboards that improved stakeholder visibility and decision-making.",
-                "Collaborated with cross-functional teams to identify business gaps and proposed solutions that enhanced operational efficiency."
-            ],
-            company: "Freelance / Academic Projects",
-            duration: "Nov 2023 – Present"
-        },
-        {
-            title: "Executive Committee Member",
-            achievements: [
-                "Led strategic planning initiatives for data-driven events and workshops focused on technology and analytics.",
-                "Collaborated with a team of 8+ to drive engagement, attracting 500+ participants to events.",
-                "Managed project timelines and stakeholder communication to ensure smooth execution of workshops."
-            ],
-            company: "ACM Thapar",
-            duration: "Dec 2022 – June 2023"
-        }
-    ],
+   experience: [
+    {
+        title: "Business Analyst Intern",
+        achievements: [
+            "Analyzed business requirements and translated them into actionable insights through structured data modeling.",
+            "Utilized Excel, SQL, and Power BI to create automated dashboards that enhanced stakeholder visibility and reporting.",
+            "Collaborated with cross-functional teams to identify performance bottlenecks and proposed process improvements."
+        ],
+        company: "Freelance / Academic Projects",
+        duration: "Nov 2023 – Present"
+    },
+    {
+        title: "Operations Assistant – Family Business",
+        achievements: [
+            "Supported day-to-day operations including inventory tracking, customer engagement, and basic bookkeeping.",
+            "Used Excel to monitor sales trends and suggested small-scale optimizations that improved stock efficiency.",
+            "Gained first-hand experience in business management, vendor coordination, and customer handling."
+        ],
+        company: "Family-Owned Retail Business",
+        duration: "May 2021 – Aug 2022"
+    },
+    {
+        title: "Event Head – CSI Student Chapter",
+        achievements: [
+            "Planned and coordinated college-level tech and analytics events with over 200 participants.",
+            "Managed a 10-member student team to execute workshops and speaker sessions on trending tech topics.",
+            "Ensured end-to-end event execution including logistics, sponsorships, and stakeholder communication."
+        ],
+        company: "CSI Club, MIET",
+        duration: "Aug 2021 – May 2023"
+    },
+    {
+        title: "Python Programming Intern",
+        achievements: [
+            "Completed hands-on training on Python programming fundamentals including data structures and control flow.",
+            "Built mini projects and solved real-world problems using Python, enhancing logical and analytical skills.",
+            "Received internship certification upon successful completion from YBI Foundation."
+        ],
+        company: "YBI Foundation",
+        duration: "Feb 2022 – April 2022"
+    }
+],
     aboutMe: `I'm a Business Analytics enthusiast with a passion for transforming data into actionable insights.\n\nCurrently pursuing an MBA in Business Analytics, I specialize in deriving strategic recommendations through data analysis, visualization, and reporting. Whether it’s simplifying operations or identifying business growth opportunities, I thrive on turning complexity into clarity.\n\nMy experience spans data analysis, dashboarding, and collaborative problem-solving, and I aim to bring value to organizations through evidence-based decision-making and continuous learning.\n\nIf you’re looking for someone who understands both the numbers and the narrative, let’s connect!`,
     whatIDo: [
         "Data Analysis & Visualization",
