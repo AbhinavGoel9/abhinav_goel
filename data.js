@@ -2,7 +2,7 @@ const portfolioData = {
     navbar: {
         image: "/images/Cute Avatar.svg",
         name: "Abhinav Goel",
-        designation: "Aspiring Business Analyst | Data-driven Decision Maker",
+        designation: "Aspiring Business Analyst . Coder . Client-Focused",
         email: "abhinavgoyal925938@gmail.com"
     },
    experience: [
@@ -23,7 +23,7 @@ const portfolioData = {
             "Used Excel to monitor sales trends and suggested small-scale optimizations that improved stock efficiency.",
             "Gained first-hand experience in business management, vendor coordination, and customer handling."
         ],
-        company: "Family-Owned Retail Business",
+        company: "Family-Owned Business",
         duration: "Aug 2023 – July 2024"
     },
     {
