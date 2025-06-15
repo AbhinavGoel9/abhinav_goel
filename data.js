@@ -9,7 +9,7 @@ const portfolioData = {
         {
             title: "Business Analyst Intern",
             achievements: [
-                Analyzed business requirements and translated them into data models and actionable insights for ongoing projects.",
+                "Analyzed business requirements and translated them into data models and actionable insights for ongoing projects.",
                 "Utilized Excel, SQL, and Power BI to create dashboards that improved stakeholder visibility and decision-making.",
                 "Collaborated with cross-functional teams to identify business gaps and proposed solutions that enhanced operational efficiency."
             ],
