@@ -24,17 +24,17 @@ const portfolioData = {
             "Gained first-hand experience in business management, vendor coordination, and customer handling."
         ],
         company: "Family-Owned Retail Business",
-        duration: "May 2021 – Aug 2022"
+        duration: "Aug 2023 – July 2024"
     },
     {
         title: "Event Head – CSI Student Chapter",
         achievements: [
-            "Planned and coordinated college-level tech and analytics events with over 200 participants.",
-            "Managed a 10-member student team to execute workshops and speaker sessions on trending tech topics.",
-            "Ensured end-to-end event execution including logistics, sponsorships, and stakeholder communication."
+            "Organized technical and business-oriented events during B.Tech, engaging 200+ students across multiple departments.",
+            "Led a 10-member team to execute seminars, hackathons, and speaker sessions on data, analytics, and emerging tech.",
+            "Developed strong event planning, leadership, and communication skills while coordinating with faculty and sponsors."
         ],
         company: "CSI Club, MIET",
-        duration: "Aug 2021 – May 2023"
+        duration: "July 2020 – Aug 2022"
     },
     {
         title: "Python Programming Intern",
@@ -44,7 +44,7 @@ const portfolioData = {
             "Received internship certification upon successful completion from YBI Foundation."
         ],
         company: "YBI Foundation",
-        duration: "Feb 2022 – April 2022"
+        duration: "June 2024 – July 2024"
     }
 ],
     aboutMe: `I'm a Business Analytics enthusiast with a passion for transforming data into actionable insights.\n\nCurrently pursuing an MBA in Business Analytics, I specialize in deriving strategic recommendations through data analysis, visualization, and reporting. Whether it’s simplifying operations or identifying business growth opportunities, I thrive on turning complexity into clarity.\n\nMy experience spans data analysis, dashboarding, and collaborative problem-solving, and I aim to bring value to organizations through evidence-based decision-making and continuous learning.\n\nIf you’re looking for someone who understands both the numbers and the narrative, let’s connect!`,
