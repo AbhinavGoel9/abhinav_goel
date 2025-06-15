@@ -7,11 +7,11 @@ const portfolioData = {
     },
     experience: [
         {
-            title: "Executive Committee Member - UI UX Head",
+            title: "Business Analyst Intern",
             achievements: [
-                "Boosted membership by adding 35 students through a targeted recruitment strategy that reached students from diverse backgrounds and majors.",
-                "Organized and executed 10 workshops and events on a variety of topics related to UI/UX design, with a total attendance of over 500 students.",
-                "Managed a team of 8 students and successfully completed all projects on time and within budget."
+                Analyzed business requirements and translated them into data models and actionable insights for ongoing projects.",
+                "Utilized Excel, SQL, and Power BI to create dashboards that improved stakeholder visibility and decision-making.",
+                "Collaborated with cross-functional teams to identify business gaps and proposed solutions that enhanced operational efficiency."
             ],
             company: "ACM Thapar",
             duration: "Dec 2022 - Present"
@@ -26,25 +26,27 @@ const portfolioData = {
             duration: "May - Aug 2023"
         }
     ],
-    aboutMe: `I'm not just bits and bytes, I'm a UX alchemist.\n\nI don't just design interfaces, I craft experiences. From streamlining email chaos in Gmail to weaving seamless travel plans in TripSync, I'm obsessed with turning pain points into "aha!" moments. Think of me as a problem-solving wizard, armed with Figma spells and user research incantations to conjure up intuitive, engaging tech that people actually love. ✨\n\nBut I'm not just a lone wolf in the UX wilderness. I lead, I inspire, I build bridges between tech and humans. As the UI/UX Head at ACM Thapar Patiala, I turned a small spark into a blazing fire, growing our community and igniting design passion in hundreds of students.\n\nSo, if you're looking for a UX designer who's not afraid to dive deep into user needs, unleash creative magic, and collaborate to build something truly groundbreaking, let's chat. Your digital dreams are my next potion to brew.`,
+    aboutMe: `I'm a Business Analytics enthusiast with a passion for transforming data into actionable insights.\n\nCurrently pursuing an MBA in Business Analytics, I specialize in deriving strategic recommendations through data analysis, visualization, and reporting. Whether it’s simplifying operations or identifying business growth opportunities, I thrive on turning complexity into clarity.\n\nMy experience spans data analysis, dashboarding, and collaborative problem-solving, and I aim to bring value to organizations through evidence-based decision-making and continuous learning.\n\nIf you’re looking for someone who understands both the numbers and the narrative, let’s connect!`,
     whatIDo: [
-        "data visualisation",
+        "Data Analysis & Visualization",
+        "Business Intelligence",
+        "Stakeholder Communication",
+        "KPI & Metric Reporting",
+        "Requirement Gathering",
+        "SQL & Excel Automation"
         "Product Management",
         "coding",
-        "Branding",
-        "front-end development",
-        "UI/UX designing"
     ],
     projects: [
         {
-            title: "Nike UI Concept",
-            description: "This UI concept reimagines Nike's online shopping experience for VisionOS",
+            title: "Sales Data Dashboard",
+            description: "Built a Power BI dashboard for monthly sales tracking, enabling stakeholders to quickly identify top-performing regions and products.",
             image: "./images/nike.svg",
             link: "https://www.behance.net/gallery/177252253/Vision-OS-Nike-UI-concept"
         },
         {
-            title: "TripSync",
-            description: "TripSync is a travel planning app that helps you plan your trips with your friends and family.",
+            title: "Customer Churn Analysis",
+            description: "Used Python and Excel to identify key drivers of customer churn and provided actionable recommendations to reduce it by 15%.",
             image: "./images/tripsync.svg",
             link: "https://www.behance.net/gallery/174989423/TripSync-UX-UI-Case-Study-(Travel-App)"
         },
@@ -55,15 +57,15 @@ const portfolioData = {
             link: "https://www.behance.net/gallery/169859363/Gmail-UX-Case-Study"
         }
     ],
-    skills: ["figma",'Wire-framing', 'Prototyping', 'ui','mobile app design','website design','User Research', 'Usability Testing',
-  'Interaction Design', 'User Flow Design', 'Information Architecture','ux',
-  'C/C++','User Interface Design',  'JavaScript', 'HTML', 'CSS','React js','node js', 'Express js',
-  'MongoDB', 'MySQL', 'Analytics','JIRA','Metabase'],
+    skills: [
+    "Data Analysis", "Power BI", "Excel", "SQL", "Requirement Gathering", "Data Visualization",
+        "Python (Pandas/Numpy)", "Problem Solving", "Communication", "Business Intelligence", "Metabase", "Stakeholder Management"
+    "figma", 'ui', 'JavaScript', 'HTML', 'CSS', 'MySQL', 'Analytics'],
     education: [
         {
-            title: "B.Tech in Computer Science and Engineering",
-            institution: "Meerut Institute of Engineering and Technology",
-            duration: "June 2019 - June 2023"
+            title: "MBA in Business Analytics",
+            institution: "Amity University",
+            duration: "2024 – Present"
         },
         {
             title: "Introduction to UX Design",
@@ -71,9 +73,9 @@ const portfolioData = {
             duration: "June 2023"
         },
         {
-            title: "Introduction to Data Analytics",
-            institution: "IBM - Coursera",
-            duration: "Nov 2023"
+            title: "B.Tech in Computer Science and Engineering",
+            institution: "Meerut Institute of Engineering and Technology",
+            duration: "June 2019 - June 2023"
         }
     ],
     cta: [
